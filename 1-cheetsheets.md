@@ -23,29 +23,29 @@ One of the greatest advantages of cheatsheets is their ability to condense vast 
 I've compiled a collection of cheatsheets that can serve as valuable resources for anyone looking to get started with programming or enhance their skills. Here are some of the cheatsheets I created during my time at UMT:
 
 ### Assembly Language
-- [Instructions Cheatsheet](./asm/instructinos.pdf)
+- [Instructions Cheatsheet](/cheetsheets/asm/instructinos.pdf)
 
 ### Diagrams and Modeling
-- [UML Diagram Cheatsheet](./diagrams/uml/uml-diagram-cheetsheet-classic.pdf)
+- [UML Diagram Cheatsheet](/cheetsheets/diagrams/uml/uml-diagram-cheetsheet-classic.pdf)
 
 ### Digital Logic Design
-- [Flip-Flop Cheatsheet](./dld/flip-flop.md)
+- [Flip-Flop Cheatsheet](/cheetsheets/dld/flip-flop.md)
 
 ### Debugging with GDB
-- [GDB Cheatsheet](./gdb/gdb.pdf)
+- [GDB Cheatsheet](/cheetsheets/gdb/gdb.pdf)
 
 ### Python Libraries
-- **Matplotlib**: [Matplotlib Cheatsheet](./py/matplotlib/matplotlib-cheatsheet.pdf)
-- **NumPy**: [NumPy Cheatsheet](./py/numpy/numpy.pdf)
-- **Pandas**: [Pandas Cheatsheet](./py/pandas/Pandas_Cheat_Sheet.pdf)
-- **Scikit-Learn**: [Scikit-Learn Documentation](./py/scikit-learn/scikit-learn-docs-complete.pdf)
-- **TensorFlow**: [TensorFlow Activation Functions](./py/tensorflow/activation-functions-tensorflow-v2.14.0.pdf)
+- **Matplotlib**: [Matplotlib Cheatsheet](/cheetsheets/py/matplotlib/matplotlib-cheatsheet.pdf)
+- **NumPy**: [NumPy Cheatsheet](/cheetsheets/py/numpy/numpy.pdf)
+- **Pandas**: [Pandas Cheatsheet](/cheetsheets/py/pandas/Pandas_Cheat_Sheet.pdf)
+- **Scikit-Learn**: [Scikit-Learn Documentation](/cheetsheets/py/scikit-learn/scikit-learn-docs-complete.pdf)
+- **TensorFlow**: [TensorFlow Activation Functions](/cheetsheets/py/tensorflow/activation-functions-tensorflow-v2.14.0.pdf)
 
 ### Web Development
-- **CSS**: [CSS Cheatsheet](./web/css/css-cheetsheet.pdf)
-- **HTML**: [HTML Cheatsheet](./web/html/html-cheetsheet.pdf)
-- **JavaScript**: [JavaScript Functions Cheatsheet](./web/js/js-functions.pdf)
-- **HTTP Codes**: [HTTP Codes Cheatsheet](./web/http-codes/http-codes.pdf)
+- **CSS**: [CSS Cheatsheet](/cheetsheets/web/css/css-cheetsheet.pdf)
+- **HTML**: [HTML Cheatsheet](/cheetsheets/web/html/html-cheetsheet.pdf)
+- **JavaScript**: [JavaScript Functions Cheatsheet](/cheetsheets/web/js/js-functions.pdf)
+- **HTTP Codes**: [HTTP Codes Cheatsheet](/cheetsheets/web/http-codes/http-codes.pdf)
 
 ## Conclusion
 
