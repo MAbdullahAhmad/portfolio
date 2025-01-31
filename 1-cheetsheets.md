@@ -23,29 +23,29 @@ One of the greatest advantages of cheatsheets is their ability to condense vast 
 I've compiled a collection of cheatsheets that can serve as valuable resources for anyone looking to get started with programming or enhance their skills. Here are some of the cheatsheets I created during my time at UMT:
 
 ### Assembly Language
-- [Instructions Cheatsheet](/cheetsheets/asm/instructinos.pdf)
+- [Instructions Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/asm/instructinos.pdf)
 
 ### Diagrams and Modeling
-- [UML Diagram Cheatsheet](/cheetsheets/diagrams/uml/uml-diagram-cheetsheet-classic.pdf)
+- [UML Diagram Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/diagrams/uml/uml-diagram-cheetsheet-classic.pdf)
 
 ### Digital Logic Design
-- [Flip-Flop Cheatsheet](/cheetsheets/dld/flip-flop.md)
+- [Flip-Flop Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/dld/flip-flop.md)
 
 ### Debugging with GDB
-- [GDB Cheatsheet](/cheetsheets/gdb/gdb.pdf)
+- [GDB Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/gdb/gdb.pdf)
 
 ### Python Libraries
-- **Matplotlib**: [Matplotlib Cheatsheet](/cheetsheets/py/matplotlib/matplotlib-cheatsheet.pdf)
-- **NumPy**: [NumPy Cheatsheet](/cheetsheets/py/numpy/numpy.pdf)
-- **Pandas**: [Pandas Cheatsheet](/cheetsheets/py/pandas/Pandas_Cheat_Sheet.pdf)
-- **Scikit-Learn**: [Scikit-Learn Documentation](/cheetsheets/py/scikit-learn/scikit-learn-docs-complete.pdf)
-- **TensorFlow**: [TensorFlow Activation Functions](/cheetsheets/py/tensorflow/activation-functions-tensorflow-v2.14.0.pdf)
+- **Matplotlib**: [Matplotlib Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/py/matplotlib/matplotlib-cheatsheet.pdf)
+- **NumPy**: [NumPy Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/py/numpy/numpy.pdf)
+- **Pandas**: [Pandas Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/py/pandas/Pandas_Cheat_Sheet.pdf)
+- **Scikit-Learn**: [Scikit-Learn Documentation](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/py/scikit-learn/scikit-learn-docs-complete.pdf)
+- **TensorFlow**: [TensorFlow Activation Functions](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/py/tensorflow/activation-functions-tensorflow-v2.14.0.pdf)
 
 ### Web Development
-- **CSS**: [CSS Cheatsheet](/cheetsheets/web/css/css-cheetsheet.pdf)
-- **HTML**: [HTML Cheatsheet](/cheetsheets/web/html/html-cheetsheet.pdf)
-- **JavaScript**: [JavaScript Functions Cheatsheet](/cheetsheets/web/js/js-functions.pdf)
-- **HTTP Codes**: [HTTP Codes Cheatsheet](/cheetsheets/web/http-codes/http-codes.pdf)
+- **CSS**: [CSS Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/web/css/css-cheetsheet.pdf)
+- **HTML**: [HTML Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/web/html/html-cheetsheet.pdf)
+- **JavaScript**: [JavaScript Functions Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/web/js/js-functions.pdf)
+- **HTTP Codes**: [HTTP Codes Cheatsheet](https://github.com/MAbdullahAhmad/portfolio/blob/main/cheatsheets/web/http-codes/http-codes.pdf)
 
 ## Conclusion
 
